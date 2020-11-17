@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d36f5fc4-c659-4606-a72e-ac6d4ef376a9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../Story/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Story/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zoom/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Zoom/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../Zoom" />
+  </component>
+  <component name="ProjectId" id="1k9kejBgIkNQ9Gaw6LZRxzHk7ja" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Proj\recipebook\views" />
+      <recent name="C:\Proj\recipebook\public" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d36f5fc4-c659-4606-a72e-ac6d4ef376a9" name="Default Changelist" comment="" />
+      <created>1605120291911</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605120291911</updated>
+      <workItem from="1605120292932" duration="2512000" />
+      <workItem from="1605166513090" duration="6664000" />
+      <workItem from="1605260235507" duration="6888000" />
+      <workItem from="1605439233567" duration="35000" />
+      <workItem from="1605537756824" duration="160000" />
+      <workItem from="1605537963992" duration="5290000" />
+      <workItem from="1605560756177" duration="4253000" />
+      <workItem from="1605601767703" duration="6997000" />
+      <workItem from="1605624032337" duration="5481000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="440" y="184" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1605122044239">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="440" y="184" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.768@0.0.1366.768" timestamp="1605122044239" />
+    <state x="463" y="137" key="FileChooserDialogImpl" timestamp="1605271172978">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="463" y="137" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1605271172978" />
+    <state width="1344" height="187" key="GridCell.Tab.0.bottom" timestamp="1605136362562">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1344" height="187" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1605136362562" />
+    <state width="1344" height="187" key="GridCell.Tab.0.center" timestamp="1605136362562">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1344" height="187" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1605136362562" />
+    <state width="1344" height="187" key="GridCell.Tab.0.left" timestamp="1605136362562">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1344" height="187" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1605136362562" />
+    <state width="1344" height="187" key="GridCell.Tab.0.right" timestamp="1605136362562">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1344" height="187" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1605136362562" />
+    <state x="299" y="0" width="916" height="768" key="SettingsEditor" timestamp="1605560649976">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="299" y="0" width="916" height="768" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1605560649976" />
+    <state x="339" y="167" key="run.anything.popup" timestamp="1605611243761">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="339" y="167" key="run.anything.popup/0.0.1366.768@0.0.1366.768" timestamp="1605611243761" />
+  </component>
+</project>

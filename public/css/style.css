@@ -1,0 +1,15 @@
+body{
+    margin-top: 10px;
+    background: #f9f9f9;
+}
+.cont{
+    margin-left: 45%;
+    display: flex;
+  
+
+}
+.addbtn{
+    margin-left: 45%;
+
+    text-align: left;
+}
